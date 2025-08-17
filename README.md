@@ -1,27 +1,125 @@
-# 💫 About Me:
-I'm a creative problem-solver with a unique blend of technical proficiency and storytelling finesse. I leverage my data structures, algorithms, Python, C, and finance expertise to craft engaging content and user-friendly web experiences. As a content writer, I weave captivating narratives across blogs, articles, and social media, driving audience engagement and achieving impactful results. In my web development role, I utilize HTML, CSS, and Javascript to build intuitive and robust websites, ensuring seamless user interaction and functionality. My passion for finance fuels my ability to simplify complex concepts and analyze market trends, delivering insightful content specifically tailored to fintech audiences. When I'm not immersed in content and code, I indulge in my love for cinema, exploring diverse genres and unwinding with a good movie.
+<!-- README.md -->
 
+<h1 align="center">🌸 Hey, I'm Omisha Singh 👋</h1>
+<h3 align="center">Creative Problem-Solver • Frontend Developer • Storyteller • Fintech Explorer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhomi201) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hy-aurora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hy-aurora&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hy-aurora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hy-aurora&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hy-aurora&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hy-aurora&label=✨+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hy-aurora&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 Who Am I?
+I’m a **creative problem-solver** with a unique blend of **technical proficiency** and **storytelling finesse**.  
+
+💻 As a **Web Developer**, I bring ideas to life using **HTML, CSS, and JavaScript**, building intuitive and robust websites that ensure seamless user experiences.  
+
+✍️ As a **Content Writer**, I craft compelling blogs, articles, and social media stories—**simplifying complex concepts and sparking meaningful conversations**.  
+
+📈 My **passion for finance** fuels my ability to decode market trends and translate them into **clear, engaging fintech content**.  
+
+🎬 Outside of tech and writing, I’m a **cinema enthusiast**, always diving into diverse genres and relaxing with a good movie.  
+
+---
+
+## 🚀 What I’m Up To
+- 🌱 Currently learning: **Advanced JavaScript, React, and Everything Fun**  
+- 🛠️ Exploring: **Data Structures, Algorithms, and Finance Tech**  
+- 📖 Improving: **System Design & Scalable Web Architectures**  
+- 🧑‍🤝‍🧑 Collaborating on: **Open-source frontend projects**  
+- 🎯 Goal for 2025: **Launch a fintech blog + contribute to 10+ open-source repos**  
+- ⚡ Fun fact: My code *usually* works… after a coffee or two ☕  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/singhomi201/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://leetcode.com/u/omisha_singh/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,bootstrap,tailwind,sass,figma" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+### 🚀 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp" />
+</p>
+
+### 🐍 Programming & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,opencv,sklearn,postman,photoshop" />
+</p>
+
+---
+<!--
+## 📂 Featured Projects
+Here are a few things I’ve been working on:  
+
+🔹 **[FinFlow – Personal Finance Dashboard](#)**  
+_A web app built with React + Node.js to track expenses, analyze spending habits, and visualize financial goals._  
+
+🔹 **[AlgoViz – DSA Visualizer](#)**  
+_An interactive tool to visualize sorting algorithms, graph traversals, and more. Built with JavaScript + Canvas._  
+
+🔹 **[CineTalks – Movie Blog](#)**  
+_A blog where I combine my love for cinema + storytelling. Built with Django + Tailwind._  
+
+👉 _More projects are available on my [repositories](https://github.com/hy-aurora?tab=repositories)!_  
+--->
+
+## 📚 Currently Learning
+- 🌐 **React Native** for cross-platform apps  
+- 🛡 **Cybersecurity Basics** (because secure apps = better apps)  
+- 📊 **Data Visualization with D3.js**  
+- ☁️ **Cloud-native Development** (AWS + GCP)  
+- 🤖 **AI/ML for Finance Applications**  
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hy-aurora&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-aurora&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hy-aurora&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hy-aurora&theme=onedark&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+## 🎬 Fun Facts About Me
+- I can turn complex finance terms into **fun analogies** (think “stocks explained like pizza 🍕”).  
+- I love experimenting with **UI/UX designs** on Figma when I’m procrastinating.  
+- I believe **movies are just code for emotions**—directors = developers, scripts = algorithms.  
+- My dream side hustle: **building a film review + fintech mashup platform**.  
+
+---
+
+## ✨ My Philosophy
+> “Code is like storytelling — every function has a role, every variable a character, and every bug a plot twist.”  
+
+---
+
+<p align="center">💖 Thanks for stopping by! Let’s connect, build cool stuff, and maybe discuss movies over coffee ☕🎬🚀</p>
