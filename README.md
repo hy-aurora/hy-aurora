@@ -1,125 +1,264 @@
-<!-- README.md -->
+<!-- 🌸✨ HELLO KITTY STYLE GITHUB PROFILE README ✨🌸 -->
 
-<h1 align="center">🌸 Hey, I'm Omisha Singh 👋</h1>
-<h3 align="center">Creative Problem-Solver • Frontend Developer • Storyteller • Fintech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hy-aurora&label=✨+Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
+# 🎀🐱 Hello, I'm Omisha Singh 🐱🎀
 
----
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW15NXBnZDRoY2ZqcW91N3FzN3U1aWJrdzF4N2VucmY0ZDBsbWQzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif" width="180"/>
 
-## 🌟 Who Am I?
-I’m a **creative problem-solver** with a unique blend of **technical proficiency** and **storytelling finesse**.  
+### 🌸 Frontend Developer • Creative Storyteller • Fintech Explorer • Open Source Enthusiast 🌸
 
-💻 As a **Web Developer**, I bring ideas to life using **HTML, CSS, and JavaScript**, building intuitive and robust websites that ensure seamless user experiences.  
+<br/>
 
-✍️ As a **Content Writer**, I craft compelling blogs, articles, and social media stories—**simplifying complex concepts and sparking meaningful conversations**.  
+![Profile Views](https://komarev.com/ghpvc/?username=hy-aurora&label=%F0%9F%8C%B8+Profile+Visitors&color=ff69b4&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/hy-aurora?style=for-the-badge&color=ff69b4&label=🌷+Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/hy-aurora?style=for-the-badge&color=ff69b4&label=⭐+Stars&logo=github)
 
-📈 My **passion for finance** fuels my ability to decode market trends and translate them into **clear, engaging fintech content**.  
-
-🎬 Outside of tech and writing, I’m a **cinema enthusiast**, always diving into diverse genres and relaxing with a good movie.  
+</div>
 
 ---
 
-## 🚀 What I’m Up To
-- 🌱 Currently learning: **Advanced JavaScript, React, and Everything Fun**  
-- 🛠️ Exploring: **Data Structures, Algorithms, and Finance Tech**  
-- 📖 Improving: **System Design & Scalable Web Architectures**  
-- 🧑‍🤝‍🧑 Collaborating on: **Open-source frontend projects**  
-- 🎯 Goal for 2025: **Launch a fintech blog + contribute to 10+ open-source repos**  
-- ⚡ Fun fact: My code *usually* works… after a coffee or two ☕  
+<div align="center">
+
+🌸 ✨ 🎀 💖 🐾 💗 🎀 ✨ 🌸
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/singhomi201/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
-<a href="https://leetcode.com/u/omisha_singh/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40"/></a>
-</p>
+## 🌸 About Me
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazMyZWJqcDg2MmNlajdrNXVjYXR6NWF5dDhlMWMwN3E2N3JtMzZvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92YG8KKSjYhMc/giphy.gif" width="160"/>
+
+Hi there! I'm **Omisha Singh**, a **Frontend Developer and creative problem-solver** who loves blending **technology, storytelling, and design** to create meaningful digital experiences 💖
+
+💻 I specialize in **Web Development using HTML, CSS, JavaScript, and React**, building **interactive and user-friendly applications.**
+
+✍️ I'm also a **content storyteller**, simplifying complex topics like **finance, technology, and development** into engaging narratives.
+
+📈 My curiosity about **financial markets and fintech innovations** inspires me to explore how **technology can reshape the future of finance.**
+
+🎬 When I'm not coding or writing, you'll find me watching movies, exploring storytelling techniques, or designing cute UI ideas!
+
+> ✨ I love **code, creativity, and a little bit of kawaii magic** 🌸
+
+⚡ **Fun fact:** My code works **99%** of the time… the other 1% just needs coffee ☕
 
 ---
 
-## 🛠️ Tech Stack
+## 🎀 What I'm Currently Doing
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,bootstrap,tailwind,sass,figma" />
-</p>
+<div align="center">
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
-</p>
+| 🌱 | 🚀 | 📊 | 🧠 | 🌐 |
+|:---:|:---:|:---:|:---:|:---:|
+| Advanced JavaScript & React | Data Structures & Algorithms | Fintech Technologies | System Design & Scalable Apps | Open Source Frontend |
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
-</p>
-
-### 🚀 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp" />
-</p>
-
-### 🐍 Programming & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,opencv,sklearn,postman,photoshop" />
-</p>
+</div>
 
 ---
-<!--
-## 📂 Featured Projects
-Here are a few things I’ve been working on:  
 
-🔹 **[FinFlow – Personal Finance Dashboard](#)**  
-_A web app built with React + Node.js to track expenses, analyze spending habits, and visualize financial goals._  
+## 🎯 2026 Goals
 
-🔹 **[AlgoViz – DSA Visualizer](#)**  
-_An interactive tool to visualize sorting algorithms, graph traversals, and more. Built with JavaScript + Canvas._  
+<img align="right" src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="130"/>
 
-🔹 **[CineTalks – Movie Blog](#)**  
-_A blog where I combine my love for cinema + storytelling. Built with Django + Tailwind._  
+✨ Launch my **Fintech + Tech Blog**
 
-👉 _More projects are available on my [repositories](https://github.com/hy-aurora?tab=repositories)!_  
---->
+✨ Contribute to **10+ open-source repositories**
+
+✨ Build impactful **developer tools** for the community
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/singhomi201/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/omisha_singh/">
+  <img src="https://img.shields.io/badge/LeetCode-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/hy-aurora">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhomi201/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/omisha_singh/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hy-aurora)
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,bootstrap,tailwind,sass,figma"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-ff69b4?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff85c0?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb3d9?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ff85c0?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-ffb3d9?style=flat-square&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff69b4?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-ff85c0?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-ffb3d9?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff69b4?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask"/>
+
+![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ff85c0?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-ffb3d9?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-ff69b4?style=flat-square&logo=flask&logoColor=white)
+
+</div>
+
+### 🗄 Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-ff69b4?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff85c0?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffb3d9?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-ff69b4?style=flat-square&logo=oracle&logoColor=white)
+
+</div>
+
+### ☁️ DevOps & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,gcp"/>
+
+![Docker](https://img.shields.io/badge/Docker-ff69b4?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff85c0?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ffb3d9?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff69b4?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-ff85c0?style=flat-square&logo=google-cloud&logoColor=white)
+
+</div>
+
+### 🧠 Programming & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,opencv,sklearn,postman,photoshop"/>
+
+![Python](https://img.shields.io/badge/Python-ff69b4?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff85c0?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-ffb3d9?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff69b4?style=flat-square&logo=cplusplus&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-ff85c0?style=flat-square&logo=opencv&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Sklearn-ffb3d9?style=flat-square&logo=scikit-learn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff69b4?style=flat-square&logo=postman&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-ff85c0?style=flat-square&logo=adobe-photoshop&logoColor=white)
+
+</div>
+
+---
 
 ## 📚 Currently Learning
-- 🌐 **React Native** for cross-platform apps  
-- 🛡 **Cybersecurity Basics** (because secure apps = better apps)  
-- 📊 **Data Visualization with D3.js**  
-- ☁️ **Cloud-native Development** (AWS + GCP)  
-- 🤖 **AI/ML for Finance Applications**  
+
+<div align="center">
+
+| 🌸 Topic | 📖 Focus Area | 🎯 Status |
+|:---|:---|:---:|
+| 📱 **React Native** | Cross-platform mobile development | 🟣 In Progress |
+| 🔒 **Cybersecurity Basics** | Building safer web apps | 🟣 In Progress |
+| 📊 **D3.js** | Data visualization and storytelling | 🩷 Exploring |
+| ☁️ **Cloud Native Dev** | AWS & GCP | 🟣 Learning |
+| 🤖 **AI + ML for Fintech** | Fintech Applications | 🩷 Exploring |
+
+</div>
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hy-aurora&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-aurora&layout=compact&theme=radical" alt="top-langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hy-aurora&theme=radical" alt="streak" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hy-aurora&show_icons=true&theme=radical&border_color=ff69b4"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-aurora&layout=compact&theme=radical&border_color=ff69b4"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hy-aurora&theme=radical&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4"/>
+
+</div>
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hy-aurora&theme=onedark&row=1&column=6" alt="trophies"/>
-</p>
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hy-aurora&theme=onedark&row=1&column=6&margin-w=10"/>
+
+</div>
 
 ---
 
 ## 🎬 Fun Facts About Me
-- I can turn complex finance terms into **fun analogies** (think “stocks explained like pizza 🍕”).  
-- I love experimenting with **UI/UX designs** on Figma when I’m procrastinating.  
-- I believe **movies are just code for emotions**—directors = developers, scripts = algorithms.  
-- My dream side hustle: **building a film review + fintech mashup platform**.  
+
+<div align="center">
+
+| 🍿 | 🎨 | 🎥 | 💡 |
+|:---:|:---:|:---:|:---:|
+| I love explaining **finance concepts** using fun analogies | **UI/UX experimentation** is my favorite way to procrastinate | Movies inspire my **creative storytelling** approach to code | Great products combine **logic, design, and emotion** |
+
+<br/>
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120"/>
+
+</div>
 
 ---
 
-## ✨ My Philosophy
-> “Code is like storytelling — every function has a role, every variable a character, and every bug a plot twist.”  
+## 🌸 My Developer Philosophy
+
+<div align="center">
+
+> *"Code is like storytelling — every function has a role,*
+> *every variable a character, and every bug a plot twist."* 🐱
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+
+</div>
 
 ---
 
-<p align="center">💖 Thanks for stopping by! Let’s connect, build cool stuff, and maybe discuss movies over coffee ☕🎬🚀</p>
+<div align="center">
+
+🌸 ✨ 🎀 💖 🐾 💗 🎀 ✨ 🌸
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21la2plaDMyanhmYWN0Z292cGlibWlzdTU2Nmkxa3plZXp3NjZsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EoZCfWYJRfp109geSC/giphy.gif" />
+
+### 🐱✨ Thanks for visiting my GitHub! ✨🐱
+
+**Let's build something amazing together 🚀💖**
+
+🌸 ✨ 🎀 💖 🐾 💗 🎀 ✨ 🌸
+
+</div>
